@@ -17,3 +17,17 @@ filename.txt
 *.uvguix.dell
 # 忽略文件类型（例如所有的txt文件）
 *.dbgconf
+*.o
+*.hex
+*.d
+*.crf
+*.axf
+*.map
+*.htm
+*.lnp
+*.sct
+*.dep
+*.lst
+*.scvd
+*.iex
+*.axf

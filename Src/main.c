@@ -33,7 +33,7 @@
 	
 	//≤‚ ‘±‰¡ø
 	uint8_t test1=0;
-	
+	uint8_t key=0;
 	
 void SystemClock_Config(void)
 {
