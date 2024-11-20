@@ -30,6 +30,11 @@
   * 返 回 值: 无
   * 说    明: 无
   */
+	
+	//测试变量
+	uint8_t test1=0;
+	
+	
 void SystemClock_Config(void)
 {
 
